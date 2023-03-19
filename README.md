@@ -1,1 +1,1 @@
-"# devkor-study" 
+"devkor-study" 
